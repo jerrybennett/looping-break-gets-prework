@@ -1,9 +1,9 @@
 
 def levitation_quiz
 	loop do
-    puts ""
+    puts "Wingardium Leviosa"
 	  answer = gets.chomp
-    break
+    break if answer ==
     puts "You passed the quiz!"
 	end
 end
